@@ -1,0 +1,138 @@
+[
+  {
+    "name": "白芷",
+    "inputprice": "1",
+    "rate": "300",
+    "outputprice": "3.0000",
+    "count": "10",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "熟地",
+    "inputprice": "0.025",
+    "rate": "300",
+    "outputprice": "0.0750",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "沙参",
+    "inputprice": "0.03",
+    "rate": "300",
+    "outputprice": "0.0900",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "麦冬",
+    "inputprice": "0.018",
+    "rate": "300",
+    "outputprice": "0.0540",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "枸杞",
+    "inputprice": "0.07",
+    "rate": "300",
+    "outputprice": "0.2100",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "玉竹",
+    "inputprice": "0.06",
+    "rate": "300",
+    "outputprice": "0.1800",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "玄参",
+    "inputprice": "0.03",
+    "rate": "300",
+    "outputprice": "0.0900",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "青篙",
+    "inputprice": "0.045",
+    "rate": "300",
+    "outputprice": "0.1350",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "鳖甲",
+    "inputprice": "0.022",
+    "rate": "300",
+    "outputprice": "0.0660",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "茯苓",
+    "inputprice": "0.03",
+    "rate": "300",
+    "outputprice": "0.0900",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "陈皮",
+    "inputprice": "0.018",
+    "rate": "300",
+    "outputprice": "0.0540",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "黄连",
+    "inputprice": "0.035",
+    "rate": "300",
+    "outputprice": "0.1050",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "黄连",
+    "inputprice": "0.035",
+    "rate": "300",
+    "outputprice": "0.1050",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "茯苓",
+    "inputprice": "0.03",
+    "rate": "300",
+    "outputprice": "0.0900",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "麦冬",
+    "inputprice": "0.018",
+    "rate": "300",
+    "outputprice": "0.0540",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "玉竹",
+    "inputprice": "0.06",
+    "rate": "300",
+    "outputprice": "0.1800",
+    "count": "1000",
+    "time": "2026-3-12"
+  },
+  {
+    "name": "三七",
+    "inputprice": "1",
+    "rate": "300",
+    "outputprice": "3.0000",
+    "count": "900",
+    "time": "2026-3-13"
+  }
+]
