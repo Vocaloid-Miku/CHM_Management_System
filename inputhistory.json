@@ -134,5 +134,13 @@
     "outputprice": "3.0000",
     "count": "900",
     "time": "2026-3-13"
+  },
+  {
+    "name": "三七",
+    "inputprice": "0.3",
+    "rate": "300",
+    "outputprice": "0.9000",
+    "count": "50",
+    "time": "2026-4-4"
   }
 ]

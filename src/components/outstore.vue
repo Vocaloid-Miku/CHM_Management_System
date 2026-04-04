@@ -212,7 +212,7 @@ const fetchPriceByName = async (name, index) => {
       params: { name }
     })
     if (response.data && response.data.price) {
-      outstoreItems.value[index].price = response.data.price
+      outstoreItems.value[index].price = Number(response.data.price)
     }
   } catch (error) {
     console.error('获取出库价失败:', error)
